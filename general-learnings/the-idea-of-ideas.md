@@ -1,6 +1,5 @@
 ---
 description: 'source: s4 w1 lecture'
-coverY: 0
 ---
 
 # 💡 the idea of ideas
