@@ -24,6 +24,20 @@ welcome to my journal for the nights and weekends, imma be publishing all my lea
 
 let's begin with a small introduction to things around here
 
+## about this book
+
+this is my anime, my journey, building things on my way to my goal.
+
+i have documented my learnings:
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
+
+{% content-ref url="s4/" %}
+[s4](s4/)
+{% endcontent-ref %}
+
 ## whut is nights and weekends?
 
 * 6-week program
@@ -64,19 +78,5 @@ other than that at the time of writing, i'm a:
 * community manager
 * repository maintainer
 * and more
-
-## now finally about this book
-
-this is my anime, my journey, building things on my way to my goal.
-
-i have documented my learnings:
-
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
-{% endcontent-ref %}
-
-{% content-ref url="s4/" %}
-[s4](s4/)
-{% endcontent-ref %}
 
 [^1]: reference to anime, naruto: "i am gonna be hokage somday", one piece: "i am gonna be the king of the pirates"
