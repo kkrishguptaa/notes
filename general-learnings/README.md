@@ -21,6 +21,6 @@ layout:
 [the-idea-of-ideas.md](general-learnings/the-idea-of-ideas.md)
 {% endcontent-ref %}
 
-{% content-ref url="readme/evaluating-startup-ideas.md" %}
-[evaluating-startup-ideas.md](readme/evaluating-startup-ideas.md)
+{% content-ref url="general-learnings/evaluating-startup-ideas.md" %}
+[evaluating-startup-ideas.md](general-learnings/evaluating-startup-ideas.md)
 {% endcontent-ref %}

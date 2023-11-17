@@ -30,8 +30,8 @@ this is my anime, my journey, building things on my way to my goal.
 
 i have documented my learnings:
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="general-learnings/" %}
+[general-learnings](<general-learnings/>)
 {% endcontent-ref %}
 
 {% content-ref url="s4/" %}
