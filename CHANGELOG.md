@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/xkrishguptaa/notes/compare/v0.2.1...v0.3.0) (2023-12-19)
+
+
+### Features
+
+* add filesystem ([#5](https://github.com/xkrishguptaa/notes/issues/5)) ([b3945fb](https://github.com/xkrishguptaa/notes/commit/b3945fb8271ffe991b11e224be3133a680a6e4e1))
+
+
+
 ## [0.2.1](https://github.com/xkrishguptaa/notes/compare/v0.2.0...v0.2.1) (2023-12-19)
 
 
