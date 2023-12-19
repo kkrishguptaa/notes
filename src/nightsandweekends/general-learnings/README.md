@@ -4,7 +4,7 @@ description: learnings that ain't limited to a season of nights and weekends
 
 # 📚 general learnings
 
-### ideas
+## ideas
 
 {% content-ref url="general-learnings/the-idea-of-ideas.md" %}
 [the-idea-of-ideas.md](general-learnings/the-idea-of-ideas.md)

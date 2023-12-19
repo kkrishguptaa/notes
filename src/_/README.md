@@ -14,10 +14,15 @@ layout:
 
 # Krish Gupta
 
-### Notes:
+## Notes:
+
+### Tech
+
+{% embed url="https://notes.xkrish.co/devops" %}
+
+### Events
 
 {% embed url="https://notes.xkrish.co/nightsweekends" %}
-{% embed url="https://notes.xkrish.co/devops/v/linux" %}
 
 ## Social Media
 

@@ -1,21 +1,11 @@
 ---
 description: Welcome to Krish's DevOps Notes Library
-cover: .gitbook/assets/DevOps Banner.png
+cover: .gitbook/assets/cover.png
 coverY: 0
 layout:
   cover:
     visible: true
     size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🏠 Introduction
@@ -26,8 +16,8 @@ DevOps is nothing but **Philosophical Practices to Improve the Release Cycle Dur
 
 ## Contents
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="basics/" %}
+[basics](<basics/>)
 {% endcontent-ref %}
 
 ## Sources

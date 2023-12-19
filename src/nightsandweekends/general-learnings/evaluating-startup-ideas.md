@@ -6,7 +6,7 @@ description: 'startup ideas are hard to come by, but evaluating them is even har
 
 source: startup school lectures
 
-#### common ideation failures
+## common ideation failures
 
 * don't start without a problem
 * don't go over tarpit ideas, they from possible but is
@@ -17,7 +17,7 @@ source: startup school lectures
 * don't wait for the perfect idea (perfect ideas don't exist)
 * don't miss to research and evaluate your idea thoroughly
 
-#### how to evaluate your idea
+## how to evaluate your idea
 
 > **note**\
 > this section contains accordian/dropdown questions, the dropdown menus open to show how to answer these
@@ -95,13 +95,13 @@ simply put, do you think that in your market, there will be a boom of growth or 
 
 </details>
 
-#### good things to notice in your ideas
+## good things to notice in your ideas
 
 * does it have a hard barrier of entry or is it a very boring market? if yes you will have less competition (good for you)
 * if you have any existing competitors then it probably means your idea rules the market 👑
 * is your idea organic? if yes it is probably one of the coolest ones out there
 * if your idea is not perfect but it is in a very fertile market (in need of a lot of innovation) you will find a lot of issues to fix, and you could pivot your idea to fixing those issues
 
-#### source
+## source
 
 * [youtube lecture by the startup school](https://www.youtube.com/watch?v=Th8JoIan4dg)
