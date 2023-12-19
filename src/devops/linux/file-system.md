@@ -13,35 +13,34 @@ With two metrics, we can categorize the directories:
 
 FHS is a stamdard that tells which directory should contain what. It is followed by most linux distributions.
 
-- [FHS Spec 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+* [FHS Spec 3.0](https://refspecs.linuxfoundation.org/FHS\_3.0/fhs-3.0.pdf)
 
 ## Directories
 
-| Directory | Description |
-| --- | --- |
-| /	| Primary directory of the entire filesystem hierarchy |
-| /bin |	Essential executable programs that must be available in single user mode |
-| /boot |	Files needed to boot the system, such as the kernel, initrd or initramfs images, and boot configuration files and | bootloader programs
-| /dev |	Device Nodes, used to interact with hardware and software devices |
-| /etc |	System-wide configuration files |
-| /home |	User home directories, including personal settings, files, etc. |
-| /lib |	Libraries required by executable binaries in /bin and /sbin |
-| /lib64 |	64-bit libraries required by executable binaries in /bin and /sbin, for systems which can run both 32-bit and | 64-bit programs
-| /media |	Mount points for removable media such as CDs, DVDs, USB sticks, etc. |
-| /mnt |	Temporarily mounted filesystems |
-| /opt |	Optional application software packages |
-| /proc |	Virtual pseudo-filesystem giving information about the system and processes running on it. Can be used to alter | system parameters.
-| /run |	Run-time variable data, containing information describing the system since it was booted. Replaces the older /var/run |
-| /sys |	Virtual pseudo-filesystem giving information about the system and processes running on it. Can be used to alter | system parameters. Similar to a device tree and is part of the Unified Device Model.
-| /root |	Home directory for the root user |
-| /sbin |	Essential system binaries |
-| /srv |	Site-specific data served up by the system. Seldom used. |
-| /tmp |	Temporary files; on many distributions lost across a reboot and may be a ramdisk in memory. |
-| /usr |	Multi-user applications, utilities and data; theoretically read-only. |
-| /var |	Variable data that changes during system operation |
-| [/misc][^1] |	Used for misc. files |
-| [/tftpboot][^3] |	Used for booting tftp |
-
+| Directory     | Description                                                                                                           |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| /             | Primary directory of the entire filesystem hierarchy                                                                  |
+| /bin          | Essential executable programs that must be available in single user mode                                              |
+| /boot         | Files needed to boot the system, such as the kernel, initrd or initramfs images, and boot configuration files and     |
+| /dev          | Device Nodes, used to interact with hardware and software devices                                                     |
+| /etc          | System-wide configuration files                                                                                       |
+| /home         | User home directories, including personal settings, files, etc.                                                       |
+| /lib          | Libraries required by executable binaries in /bin and /sbin                                                           |
+| /lib64        | 64-bit libraries required by executable binaries in /bin and /sbin, for systems which can run both 32-bit and         |
+| /media        | Mount points for removable media such as CDs, DVDs, USB sticks, etc.                                                  |
+| /mnt          | Temporarily mounted filesystems                                                                                       |
+| /opt          | Optional application software packages                                                                                |
+| /proc         | Virtual pseudo-filesystem giving information about the system and processes running on it. Can be used to alter       |
+| /run          | Run-time variable data, containing information describing the system since it was booted. Replaces the older /var/run |
+| /sys          | Virtual pseudo-filesystem giving information about the system and processes running on it. Can be used to alter       |
+| /root         | Home directory for the root user                                                                                      |
+| /sbin         | Essential system binaries                                                                                             |
+| /srv          | Site-specific data served up by the system. Seldom used.                                                              |
+| /tmp          | Temporary files; on many distributions lost across a reboot and may be a ramdisk in memory.                           |
+| /usr          | Multi-user applications, utilities and data; theoretically read-only.                                                 |
+| /var          | Variable data that changes during system operation                                                                    |
+| /misc[^1]     | Used for misc. files                                                                                                  |
+| /tftpboot[^2] | Used for booting tftp                                                                                                 |
 
 ### /bin & /sbin
 
@@ -87,25 +86,11 @@ Red Hat based distributions have /etc/sysconfig directory. It contains configura
 
 #### Important Subdirectories
 
-{% tabs %}
-
-{% tab title="/etc/skel" %}
-
 It has skeleton/template files for new home directories
-
-{% endtab %}
-
-{% tab title="/etc/systemd" %}
 
 Scripts for starting and stopping services
 
-{% endtab %}
-
-{% tab title="/etc/init.d" %}
-
 Startup and shutdown scripts
-
-{% endtab %}
 
 ### /home & /root
 
@@ -113,9 +98,7 @@ Startup and shutdown scripts
 
 This directory is added to `$HOME` environment variable and is available as `~` in the shell.
 
-{% hint style="info" }
-For root user, the home directory is `/root`.
-{% endhint %}
+\{% hint style="info" } For root user, the home directory is `/root`.
 
 ### /lib & /lib64
 
@@ -161,7 +144,6 @@ Variable data that changes during system operation.
 
 Stores transient files that are not needed across reboots. It is a replacement for /var/run and /var/lock.
 
+[^1]: Optional, Used for misc. files
 
-
-[^2]: Optional, Used for misc. files
-[^3]: Optional, Used for booting tftp
+[^2]: Optional, Used for booting tftp
