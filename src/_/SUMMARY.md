@@ -4,8 +4,8 @@
 
 ## Tech
 
-- [DevOps](https://notes.xkrish.co/devops)
+* [DevOps](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/)
 
 ## Events
 
-- [Nights and Weekends](https://notes.xkrish.co/nightsandweekends)
+* [Nights and Weekends](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/ByaKuK4MXr4nB4IJEezP/)

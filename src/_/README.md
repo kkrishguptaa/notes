@@ -2,6 +2,14 @@
 layout:
   title:
     visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Krish Gupta
@@ -10,7 +18,9 @@ layout:
 
 ### Tech
 
-{% embed url="https://notes.xkrish.co/devops" %}
+{% content-ref url="https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/" %}
+[DevOps](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/)
+{% endcontent-ref %}
 
 ### Events
 
