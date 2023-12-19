@@ -1,3 +1,12 @@
+## [0.3.2](https://github.com/xkrishguptaa/notes/compare/v0.3.1...v0.3.2) (2023-12-19)
+
+
+### Bug Fixes
+
+* tabs syntax ([839b0cd](https://github.com/xkrishguptaa/notes/commit/839b0cd5df5365d6fcdd36fb53517546b3aafa5e))
+
+
+
 ## [0.3.1](https://github.com/xkrishguptaa/notes/compare/v0.3.0...v0.3.1) (2023-12-19)
 
 
