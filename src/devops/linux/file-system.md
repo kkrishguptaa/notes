@@ -86,11 +86,21 @@ Red Hat based distributions have /etc/sysconfig directory. It contains configura
 
 #### Important Subdirectories
 
+{% tabs %}
+
+{% tab title="/etc/skel" %}
 It has skeleton/template files for new home directories
+{% endtab %}
 
+{% tab title="/etc/systemd" %}
 Scripts for starting and stopping services
+{% endtab %}
 
+{% tab title="/etc/init.d" %}
 Startup and shutdown scripts
+{% endtab %}
+
+{% endtabs %}
 
 ### /home & /root
 
@@ -98,7 +108,7 @@ Startup and shutdown scripts
 
 This directory is added to `$HOME` environment variable and is available as `~` in the shell.
 
-\{% hint style="info" } For root user, the home directory is `/root`.
+{% hint style="info" } For root user, the home directory is `/root`. {% endhint %}
 
 ### /lib & /lib64
 
