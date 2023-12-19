@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/xkrishguptaa/notes/compare/v0.3.0...v0.3.1) (2023-12-19)
+
+
+### Bug Fixes
+
+* incomplete ending tag ([#6](https://github.com/xkrishguptaa/notes/issues/6)) ([5f5561f](https://github.com/xkrishguptaa/notes/commit/5f5561f6d620463f47a653a1a55dd1df8612f8c3))
+
+
+
 # [0.3.0](https://github.com/xkrishguptaa/notes/compare/v0.2.1...v0.3.0) (2023-12-19)
 
 
