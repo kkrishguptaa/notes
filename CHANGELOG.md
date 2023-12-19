@@ -1,4 +1,13 @@
-# 0.1.0 (2023-12-19)
+# [0.2.0](https://github.com/xkrishguptaa/notes/compare/v0.1.0...v0.2.0) (2023-12-19)
+
+
+### Features
+
+* add toc at homepage ([cd09c2f](https://github.com/xkrishguptaa/notes/commit/cd09c2f7dbc62291c21251604ad8a1d458328572))
+
+
+
+# [0.1.0](https://github.com/xkrishguptaa/notes/compare/efda542fad9a5992a915f3b5e5371f20012dc220...v0.1.0) (2023-12-19)
 
 
 ### Features
