@@ -1,16 +1,5 @@
 ---
 description: learnings that ain't limited to a season of nights and weekends
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 📚 general learnings

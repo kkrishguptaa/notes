@@ -1,8 +1,10 @@
 ---
-description: 'source: startup school lectures'
+description: 'startup ideas are hard to come by, but evaluating them is even harder. this is a collection of resources that will help you evaluate your startup ideas.'
 ---
 
 # 🎯 evaluating startup ideas
+
+source: startup school lectures
 
 #### common ideation failures
 

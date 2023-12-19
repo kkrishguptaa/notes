@@ -1,8 +1,10 @@
 ---
-description: 'source: s4 w1 lecture'
+description: 'ideas are not what everyone thinks they are'
 ---
 
 # 💡 the idea of ideas
+
+source: s4 w1 lecture
 
 #### ideas, not plans
 
@@ -22,13 +24,13 @@ description: 'source: s4 w1 lecture'
 
 #### "great ideas are forged not found"
 
-<figure><img src="../.gitbook/assets/image.png" alt="the text: &#x22;great ideas are forged not found&#x22; on top of a red furnance" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/idea-forge.png" alt="the text: &#x22;great ideas are forged not found&#x22; on top of a red furnance" width="188"><figcaption></figcaption></figure>
 
 * pick an idea and iterate
 * until u finally reach the ["tower of god"](#user-content-fn-1)[^1]
 * progress is not linear, you grow as long as you move
 
-<figure><img src="../.gitbook/assets/the incorrect idea.png" alt="if you choose the wrong idea, you&#x27;ll end up fixing it once or twice, but quicker because you&#x27;ll know what you did wrong, while if you waited for the right idea the one with the wrong idea who was iterating just took away your market"><figcaption><p>the iterator always wins.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/the-incorrect-idea.png" alt="if you choose the wrong idea, you&#x27;ll end up fixing it once or twice, but quicker because you&#x27;ll know what you did wrong, while if you waited for the right idea the one with the wrong idea who was iterating just took away your market"><figcaption><p>the iterator always wins.</p></figcaption></figure>
 
 #### tldr
 
