@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/xkrishguptaa/notes/compare/v0.2.0...v0.2.1) (2023-12-19)
+
+
+### Bug Fixes
+
+* forgot to add intro item ([e054086](https://github.com/xkrishguptaa/notes/commit/e054086bcca907dea1babda33401168438890e3b))
+
+
+
 # [0.2.0](https://github.com/xkrishguptaa/notes/compare/v0.1.0...v0.2.0) (2023-12-19)
 
 
