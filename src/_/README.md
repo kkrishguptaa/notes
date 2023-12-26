@@ -18,6 +18,10 @@ layout:
 
 ### Tech
 
+{% content-ref url="https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/3gkKeibkDtEwxuw8rz3i/" %}
+[Golang](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/3gkKeibkDtEwxuw8rz3i/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/" %}
 [DevOps](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/)
 {% endcontent-ref %}

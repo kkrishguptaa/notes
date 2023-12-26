@@ -5,6 +5,7 @@
 ## Tech
 
 * [DevOps](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/OW2bszK5xpOOTzbmHTGc/)
+* [Golang](https://app.gitbook.com/o/ptndZFumSm9E6npC0TXA/s/3gkKeibkDtEwxuw8rz3i/)
 
 ## Events
 
