@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
-      - uses: TriPSs/conventional-changelog-action@ebc124553a706189378cccb6a34fa836ebff7bc1 # v5
+      - uses: TriPSs/conventional-changelog-action@f04dac1fd07687cec8ea302937ca588b33786e98 # v5
         id: changelog
         with:
           github-token: ${{ github.token }}
