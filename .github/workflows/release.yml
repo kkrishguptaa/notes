@@ -18,7 +18,7 @@ jobs:
         with:
           github-token: ${{ github.token }}
           release-count: 0
-      - uses: softprops/action-gh-release@d99959edae48b5ffffd7b00da66dcdb0a33a52ee # v2
+      - uses: softprops/action-gh-release@3198ee18f814cdf787321b4a32a26ddbf37acc52 # v2
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         with:
           tag_name: ${{ steps.changelog.outputs.tag }}
