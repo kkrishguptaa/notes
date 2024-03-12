@@ -12,13 +12,13 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 # v4
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - uses: TriPSs/conventional-changelog-action@f04dac1fd07687cec8ea302937ca588b33786e98 # v5
         id: changelog
         with:
           github-token: ${{ github.token }}
           release-count: 0
-      - uses: softprops/action-gh-release@3198ee18f814cdf787321b4a32a26ddbf37acc52 # v2
+      - uses: softprops/action-gh-release@9d7c94cfd0a1f3ed45544c887983e9fa900f0564 # v2
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         with:
           tag_name: ${{ steps.changelog.outputs.tag }}
